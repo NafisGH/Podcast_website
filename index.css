@@ -1,0 +1,28 @@
+@import url("./vendor/normolize.css");
+
+@import url("./fonts/font.css");
+
+@import url("./blocks/header/header.css");
+
+@import url('./blocks/header/header__nav-block.css');
+
+@import url('./blocks/main/section_hero_contant/hero_contant.css');
+
+body {
+  max-width: 1192px;
+  margin: 0 auto;
+}
+
+* {
+  font-family: Poppins;
+  font-style: normal;
+}
+ul {
+    padding: 0;
+}
+.header_hero_contant {
+    background: linear-gradient(238.08deg, #a248d9 -25.15%, #eccdff 127.57%);
+    max-width: 1440px;
+
+}
+

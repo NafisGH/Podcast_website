@@ -1,0 +1,35 @@
+.header__ul {
+  display: flex;
+  list-style-type: none;
+  padding: none;
+  margin-right: -56px;
+}
+
+.header__item-list {
+  margin-right: 50px;
+}
+
+.header__item-list > a {
+  text-decoration: none;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  opacity: 0.8;
+}
+.header__nav-block {
+    display: flex;
+    align-items: center;
+}
+.header__nav {
+    margin-right: 53px;
+}
+.header__sign-up {
+    padding: 9px 35px;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 30px;
+    background: none;
+    color: #FFFFFF;
+}
