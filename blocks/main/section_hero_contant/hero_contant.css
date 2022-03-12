@@ -1,8 +1,12 @@
 .hero_contant {
-  /* background: linear-gradient(238.08deg, #a248d9 -25.15%, #eccdff 127.57%); */
+display: flex;
+width: 1192px;
+margin: 0 auto;
 }
 .hero_contant__text {
-    max-width: 650px;
+  width: 650px;
+  margin-top: 0px;
+  background: none;
 
 }
 .hero_contant__subtitle {
@@ -93,3 +97,4 @@ h1 {
 .hero_contant__ul > li:nth-child(2) {
     margin-right: 26px;
 }
+

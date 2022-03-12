@@ -1,0 +1,25 @@
+.hero_contant__image {
+  width: 553px;
+  height: 496px;
+  background: none;
+  margin-left: 15px;
+  display: flex;
+  flex-wrap: wrap;
+}
+img {
+  border-radius: 35px;
+}
+.hero_contant__image-man-black {
+  margin-top: 29px;
+}
+.hero_contant__image__purple {
+  margin-left: 21px;
+}
+.hero_contant__image__microphone {
+  margin-left: 63px;
+  margin-top: 22px;
+}
+.hero_contant__image__man-white {
+  margin-top: -100px;
+  margin-left: 10px;
+}

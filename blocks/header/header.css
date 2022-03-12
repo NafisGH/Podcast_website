@@ -2,7 +2,9 @@
   display: flex;
   justify-content: space-between;
   padding: 37px 0;
-  background: linear-gradient(238.08deg, #431cee -25.15%, #eccdff 127.57%);
+background: none;
+  width: 1192px;
+margin: 0 auto;
 }
 
 .header__logo {

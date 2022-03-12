@@ -7,10 +7,15 @@
 @import url('./blocks/header/header__nav-block.css');
 
 @import url('./blocks/main/section_hero_contant/hero_contant.css');
+@import url('./blocks/main/section_hero_contant/hero_contant__image.css');
+
+@import url('./blocks/main/section_latest_pisodes/personal_brand.css');
+@import url('./blocks/footer/footer.css');
+
 
 body {
-  max-width: 1192px;
-  margin: 0 auto;
+  width: 1440px;
+  /* margin: 0 auto; */
 }
 
 * {
@@ -22,7 +27,7 @@ ul {
 }
 .header_hero_contant {
     background: linear-gradient(238.08deg, #a248d9 -25.15%, #eccdff 127.57%);
-    max-width: 1440px;
-
+    width: 1440px;
+    margin: 0 auto;
 }
 
