@@ -1,0 +1,116 @@
+.latest_episodes {
+    width: 1192px;
+    margin: 0 auto;
+  }
+  img {
+    /* border-radius: 12px; */
+  }
+  .latest_episodes__subtitle {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 258px;
+    padding-left: 24px;
+  }
+  .latest_episodes__subtitle-text {
+    font-size: 35px;
+    line-height: 52px;
+    letter-spacing: 0.05em;
+    color: #000000;
+  }
+  .latest_episodes__subtitle_view_all {
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.05em;
+    color: #9224d6;
+    margin-top: 25px;
+    margin-right: -31px;
+  }
+  .personal_brand {
+    display: grid;
+    gap: 33px;
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: 50px;
+    margin-left: 28px;
+  }
+  .latest_episodes__photo-description {
+    display: flex;
+    align-items: center;
+    margin-top: 5px;
+  }
+  .photo-description-text {
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.05em;
+    color: #000000;
+  }
+  .photo-description-ellipse {
+    width: 4px;
+    height: 4px;
+    left: 225px;
+    top: 1418px;
+    background: #1c1b1e;
+    margin-left: 12px;
+    margin-right: 12px;
+    border-radius: 50px;
+  }
+  .photo-description-text-title {
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.05em;
+    color: #000000;
+  }
+  .latest_episodes__content {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.02em;
+    color: #000000;
+    width: 374px;
+    margin-top: 15px;
+  }
+  .latest_episodes__lorem {
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    width: 377px;
+    color: #000000;
+    opacity: 0.6;
+    margin-top: 10px;
+  }
+  .latest_episodes__play {
+    width: 377px;
+      display: flex;
+      margin-top: 20px;
+  }
+  .play__button {
+    /* border-top: 10px solid transparent;
+    border-left: 20px solid #9224d6;
+    border-bottom: 10px solid transparent;
+    border-radius: 1px;
+    width: 21px; */
+    border: 13px solid transparent; 
+    border-left: 20px solid #9224D6;;
+  }
+  .play__text {
+  padding-left: 0px;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #9224d6;
+  }
+  .play__clock {
+    width: 20px;
+    height: 20px;
+    border: 3px solid #000000;
+    border-radius: 50px;
+    opacity: 0.6;
+    margin-left: 115px;
+    margin-right: 3px;
+}
+  .play__time {
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #000000;
+    opacity: 0.6;
+}

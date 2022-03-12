@@ -1,0 +1,125 @@
+.footer {
+  width: 1196px;
+  margin: 0 auto;
+}
+.footer__information {
+  display: flex;
+margin-top: 100px;
+}
+
+.footer__logo {
+  display: flex;
+  align-items:center;
+
+
+}
+.footer__logo-ellipse {
+    width: 49px;
+    height: 49px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(238.08deg, #a248d9 -25.15%, #eccdff 127.57%);
+    border-radius: 50%;
+    color: white;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 38px;
+    margin-right: 18px;
+  }
+  .footer__logo-text {
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 38px;
+    letter-spacing: 0.05em;
+    color: black;
+  }
+  .footer__lorem {
+    width: 380px;
+height: 75px;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.03em;
+color: #1C1B1E;
+opacity: 0.6;
+}
+.footer__block-sitemap > p {
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.02em;
+  color: #000000;
+  opacity: 0.7;
+}
+.footer__block-sitemap {
+  margin-left: 200px;
+}
+.footer__block-company > p {
+  font-size: 14px;
+line-height: 21px;
+letter-spacing: 0.02em;
+color: #000000;
+opacity: 0.7;
+}
+.footer__block-company {
+  margin-left: 150px;
+}
+.footer__block-contact > p {
+  width: 162px;
+  font-size: 14px;
+line-height: 21px;
+letter-spacing: 0.02em;
+color: #000000;
+opacity: 0.7;
+}
+.footer__block-contact {
+  margin-left: 137px;
+}
+
+.footer__social-media {
+  display: flex;
+  align-items:center;
+}
+.footer__facebook {
+  font-size: 14px;
+line-height: 21px;
+letter-spacing: 0.02em;
+color: #000000;
+text-decoration: none;
+}
+.footer__facebook:hover {
+  color: red;
+}
+
+.footer__twitter {
+  font-size: 14px;
+line-height: 21px;
+letter-spacing: 0.02em;
+color: #000000;
+text-decoration: none;
+}
+.footer__twitter:hover {
+  color:red;
+}
+.footer__instagram {
+  font-size: 14px;
+line-height: 21px;
+letter-spacing: 0.02em;
+color: #000000;
+text-decoration: none;
+}
+.footer__instagram:hover {
+  color:red;
+}
+.footer__ellipse {
+  width: 4px;
+  height: 4px;
+  background: #1C1B1E;
+  border-radius:50px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.footer__site {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 28px;
+}
